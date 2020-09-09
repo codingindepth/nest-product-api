@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://medium.com/@codingindepth" width="320" alt="Nest Logo" /></a>
-</p>
 
 
 
@@ -10,6 +7,11 @@
 ## Description
 
 Nest API for Coding in Depth
+
+<h5>This project is made to demo Coding in depth stories</h5>
+  <p> Check
+    <a target="_blank" href="https://medium.com/@codingindepth"> Coding In Depth</a> for more details.
+    </p>
 
 
 
